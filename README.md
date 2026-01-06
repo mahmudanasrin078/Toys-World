@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live URL:** 
+🔗 **Live URL:** https://assignment-9-toys-world.web.app
 
 ---
 
